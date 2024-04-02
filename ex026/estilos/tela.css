@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+/*estilos para telas*/
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+header {
+    background-color: rgba(91, 185, 162, 0.733);
+}
+
+header > h1 {
+    text-align: center;
+}
+
+header > menu {
+    margin-left: 20px;
+}
